@@ -82,11 +82,6 @@ Currently in active development. See the [Issues](https://github.com/q-aware-lab
 
 ## 📞 Contact
 
-- Website: [q-aware-labs.com](https://q-aware-labs.com)
+- Email: [antony.garcia@qawarelabs.com](mailto:antony.garcia@qawarelabs.com)
 - GitHub: [@q-aware-labs](https://github.com/q-aware-labs)
 
-## 🙏 Acknowledgments
-
-- [TailwindCSS](https://tailwindcss.com/) for the utility-first CSS framework
-- [Font Awesome](https://fontawesome.com/) for icons
-- [Google Fonts](https://fonts.google.com/) for typography

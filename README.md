@@ -1,4 +1,4 @@
-👷🏾🚧# Currently in active development 🚧👷🏾
+# 👷🏾🚧 Currently in active development 🚧👷🏾
 
 # Q-Aware Labs Website
 

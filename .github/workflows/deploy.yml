@@ -3,11 +3,7 @@ name: Deploy to Namecheap
 on:
   push:
     branches:
-<<<<<<< HEAD
-      - main  # or master, depending on your default branch name
-=======
-      - main 
->>>>>>> c47510bb87f5248836cb50848d8874081cd4dfd2
+    - main 
 
 jobs:
   deploy:
@@ -31,8 +27,4 @@ jobs:
             **/.github/**
             **/.env
             **/.env.*
-<<<<<<< HEAD
-            **/README.md 
-=======
             **/README.md
->>>>>>> c47510bb87f5248836cb50848d8874081cd4dfd2
